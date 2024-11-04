@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category_name": "Smartphones"
+    },
+    {
+        "id":2,
+        "category_name": "Audio"
+    },
+    {
+        "id": 3,
+        "category_name": "Wearables"
+    },
+    {
+        "id": 4,
+        "category_name": "Tablets"
+    },
+    {
+        "id": 5,
+        "category_name": "Home Entertainment"
+    },
+    {
+        "id": 6,
+        "category_name": "Computers"
+    }
+]

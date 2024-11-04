@@ -1,0 +1,194 @@
+[
+      {
+        "product_id": "GAD001",
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://example.com/images/iphone_14_pro.jpg",
+        "category_name": "Smartphones",
+        "price": 999.99,
+        "description": "The iPhone 14 Pro features an incredible camera system and powerful performance.",
+        "specification": [
+          "6.1-inch Super Retina XDR display",
+          "128GB storage",
+          "Triple 12MP camera system",
+          "3200mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "GAD002",
+        "product_title": "Samsung Galaxy S23",
+        "product_image": "https://example.com/images/samsung_galaxy_s23.jpg",
+        "category_name": "Smartphones",
+        "price": 799.99,
+        "description": "A powerful smartphone with a stunning display and excellent camera features.",
+        "specification": [
+          "6.2-inch Dynamic AMOLED display",
+          "256GB storage",
+          "50MP + 12MP + 10MP triple camera",
+          "3900mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "GAD003",
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://example.com/images/sony_wh1000xm5.jpg",
+        "category_name": "Audio",
+        "price": 349.99,
+        "description": "Industry-leading noise cancellation and exceptional sound quality.",
+        "specification": [
+          "30 hours battery life",
+          "Bluetooth 5.2",
+          "Touch sensor controls",
+          "Quick charge feature"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": "GAD004",
+        "product_title": "JBL Charge 5",
+        "product_image": "https://example.com/images/jbl_charge_5.jpg",
+        "category_name": "Audio",
+        "price": 179.99,
+        "description": "Powerful sound with deep bass and portable design.",
+        "specification": [
+          "20 hours battery life",
+          "IP67 waterproof",
+          "Bluetooth 5.1",
+          "Built-in power bank"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "GAD005",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://example.com/images/apple_watch_series_8.jpg",
+        "category_name": "Wearables",
+        "price": 399.99,
+        "description": "The latest smartwatch with advanced health tracking features.",
+        "specification": [
+          "Always-On Retina display",
+          "GPS and Cellular",
+          "Health monitoring",
+          "Water resistant"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "GAD006",
+        "product_title": "Fitbit Charge 5",
+        "product_image": "https://example.com/images/fitbit_charge_5.jpg",
+        "category_name": "Wearables",
+        "price": 149.99,
+        "description": "Advanced fitness tracker with health metrics and GPS.",
+        "specification": [
+          "Daily readiness score",
+          "Stress management tools",
+          "Built-in GPS",
+          "Up to 7 days battery"
+        ],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": "GAD007",
+        "product_title": "Apple iPad Air (5th Gen)",
+        "product_image": "https://example.com/images/ipad_air_5th_gen.jpg",
+        "category_name": "Tablets",
+        "price": 599.99,
+        "description": "The powerful iPad Air with a sleek design and great performance.",
+        "specification": [
+          "10.9-inch Liquid Retina display",
+          "256GB storage",
+          "M1 chip",
+          "Touch ID"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "GAD008",
+        "product_title": "Samsung Galaxy Tab S8",
+        "product_image": "https://example.com/images/galaxy_tab_s8.jpg",
+        "category_name": "Tablets",
+        "price": 699.99,
+        "description": "A premium tablet with stunning visuals and powerful performance.",
+        "specification": [
+          "11-inch TFT display",
+          "128GB storage",
+          "Qualcomm Snapdragon 8 Gen 1",
+          "S Pen included"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "GAD009",
+        "product_title": "LG OLED C2 Series 55-Inch 4K TV",
+        "product_image": "https://example.com/images/lg_oled_c2.jpg",
+        "category_name": "Home Entertainment",
+        "price": 1399.99,
+        "description": "Stunning 4K OLED display with vibrant colors and deep blacks.",
+        "specification": [
+          "4K resolution",
+          "HDR support",
+          "webOS platform",
+          "NVIDIA G-SYNC compatible"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": "GAD010",
+        "product_title": "Sony HT-A7000 7.1.2 Channel Soundbar",
+        "product_image": "https://example.com/images/sony_ht_a7000.jpg",
+        "category_name": "Home Entertainment",
+        "price": 1299.99,
+        "description": "Premium soundbar for an immersive audio experience.",
+        "specification": [
+          "Dolby Atmos and DTS:X",
+          "Built-in subwoofer",
+          "Bluetooth and Wi-Fi connectivity",
+          "8K Pass-through"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "GAD011",
+        "product_title": "Razer Blade 15 Gaming Laptop",
+        "product_image": "https://example.com/images/razer_blade_15.jpg",
+        "category_name": "Computers",
+        "price": 1999.99,
+        "description": "High-performance gaming laptop with a sleek design.",
+        "specification": [
+          "15.6-inch Full HD display",
+          "Intel i7 processor",
+          "16GB RAM",
+          "NVIDIA GeForce RTX 3070"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": "GAD012",
+        "product_title": "Dell XPS 27 All-in-One",
+        "product_image": "https://example.com/images/dell_xps_27.jpg",
+        "category_name": "Computers",
+        "price": 1799.99,
+        "description": "A powerful all-in-one desktop with stunning 4K display.",
+        "specification": [
+          "27-inch 4K Ultra HD display",
+          "Intel i7 processor",
+          "32GB RAM",
+          "1TB SSD"
+        ],
+        "availability": true,
+        "rating": 4.7
+      }
+    ]
