@@ -24,7 +24,7 @@ const Gadget = () => {
     console.log(gadget)
     console.log(smart)
     return (
-        <div className=" grid grid-cols-2 md:grid-cols-3 gap-5">
+        <div className=" grid grid-cols-1 md:grid-cols-2 gap-5">
             {
                 gadgets.map(gadget => <Card key={gadget.product_id} gadget={gadget}></Card>)
             }
