@@ -131,7 +131,7 @@
         "product_id": "GAD009",
         "product_title": "LG OLED C2 Series 55-Inch 4K TV",
         "product_image": "https://example.com/images/lg_oled_c2.jpg",
-        "category_name": "Home Entertainment",
+        "category_name": "Entertainment",
         "price": 1399.99,
         "description": "Stunning 4K OLED display with vibrant colors and deep blacks.",
         "specification": [
@@ -147,7 +147,7 @@
         "product_id": "GAD010",
         "product_title": "Sony HT-A7000 7.1.2 Channel Soundbar",
         "product_image": "https://example.com/images/sony_ht_a7000.jpg",
-        "category_name": "Home Entertainment",
+        "category_name": "Entertainment",
         "price": 1299.99,
         "description": "Premium soundbar for an immersive audio experience.",
         "specification": [

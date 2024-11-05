@@ -4,7 +4,7 @@ import { FaRegHeart } from "react-icons/fa6";
 
 const Navbar = () => {
     return (
-        <div className="md:m-8 bg-purple-600 rounded-2xl md:pb-40 lg:pb-64 text-white">
+        <div className="md:m-8 bg-purple-700 rounded-2xl md:pb-40 lg:pb-64 text-white">
 
             {/* Navbar starts here */}
             <div className="navbar justify-between bg-base-100 bg-transparent px-14">

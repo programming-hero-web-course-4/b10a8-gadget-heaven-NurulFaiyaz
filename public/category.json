@@ -1,5 +1,9 @@
 [
     {
+        "id": 0,
+        "category_name": "All Gadgets"
+    },
+    {
         "id": 1,
         "category_name": "Smartphones"
     },
@@ -17,7 +21,7 @@
     },
     {
         "id": 5,
-        "category_name": "Home Entertainment"
+        "category_name": "Entertainment"
     },
     {
         "id": 6,
