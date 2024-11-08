@@ -1,17 +1,17 @@
 import { Link } from "react-router-dom";
 
 const Card = ({ gadget }) => {
-    const { product_id, product_title, price, description, specification } = gadget
+    const { product_id, product_title, price, description, specification, product_image } = gadget
 
 
     // const handleDetails = id => 
 
     return (
         <div className="card card-compact bg-base-100 shadow-xl">
-            <figure>
-                <img
-                    src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                    alt="Shoes" />
+            <figure className="h-full">
+                <img className="w-full h-full object-contain"
+                    src={product_image}
+                    alt={product_title}/>
             </figure>
             <div className="card-body">
                 <h2 className="card-title">{product_title}</h2>

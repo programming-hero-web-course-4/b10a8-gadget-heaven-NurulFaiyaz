@@ -13,6 +13,8 @@ import Layout from "./Components/Layout"
 import Home from "./Components/Home"
 import Gadget from "./Components/Gadget"
 import GadgetInfo from "./Components/GadgetInfo"
+import Cart from "./Components/Cart"
+import Wishlist from "./Components/Wishlist"
 
 
 const router = createBrowserRouter([
@@ -28,29 +30,39 @@ const router = createBrowserRouter([
           {
             path: '/',
             element: <Gadget></Gadget>,
-            loader: ()=> fetch('../productData.json')
+            loader: () => fetch('../productData.json')
           },
           {
             path: '/gadget/:smart',
             element: <Gadget></Gadget>,
-            loader: ()=> fetch('../productData.json')
+            loader: () => fetch('../productData.json')
           }
         ]
-        
+
       },
-      
+
       {
         path: '/statistics',
         element: <Statistics></Statistics>
       },
       {
         path: '/dashboard',
-        element: <Dashboard></Dashboard>
+        element: <Dashboard></Dashboard>,
+        children: [
+          {
+            path: '/dashboard/cart',
+            element: <Cart></Cart>
+          },
+          {
+            path: '/dashboard',
+            element: <Wishlist></Wishlist>
+          }
+        ]
       },
       {
         path: '/gadgetInfo/:id',
         element: <GadgetInfo></GadgetInfo>,
-        loader: ()=> fetch('../productData.json')
+        loader: () => fetch('../productData.json')
       },
     ]
   }

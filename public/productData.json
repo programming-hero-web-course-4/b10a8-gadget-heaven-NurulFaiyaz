@@ -2,7 +2,7 @@
       {
         "product_id": "GAD001",
         "product_title": "iPhone 14 Pro",
-        "product_image": "https://example.com/images/iphone_14_pro.jpg",
+        "product_image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6487/6487406_sd.jpg",
         "category_name": "Smartphones",
         "price": 999.99,
         "description": "The iPhone 14 Pro features an incredible camera system and powerful performance.",
@@ -18,7 +18,7 @@
       {
         "product_id": "GAD002",
         "product_title": "Samsung Galaxy S23",
-        "product_image": "https://example.com/images/samsung_galaxy_s23.jpg",
+        "product_image": "https://cdn1.smartprix.com/rx-izLSMVlI0-w1200-h1200/zLSMVlI0.jpg",
         "category_name": "Smartphones",
         "price": 799.99,
         "description": "A powerful smartphone with a stunning display and excellent camera features.",
@@ -34,7 +34,7 @@
       {
         "product_id": "GAD003",
         "product_title": "Sony WH-1000XM5",
-        "product_image": "https://example.com/images/sony_wh1000xm5.jpg",
+        "product_image": "https://th.bing.com/th/id/OIP.3ztAVM2ssQ_ibqguyP_QfQHaLW?rs=1&pid=ImgDetMain",
         "category_name": "Audio",
         "price": 349.99,
         "description": "Industry-leading noise cancellation and exceptional sound quality.",
@@ -50,7 +50,7 @@
       {
         "product_id": "GAD004",
         "product_title": "JBL Charge 5",
-        "product_image": "https://example.com/images/jbl_charge_5.jpg",
+        "product_image": "https://www.flowrista.com/Uploads/Product/ad0af84e-71c2-4947-a916-e65e24453bc5.jpg",
         "category_name": "Audio",
         "price": 179.99,
         "description": "Powerful sound with deep bass and portable design.",
@@ -66,7 +66,7 @@
       {
         "product_id": "GAD005",
         "product_title": "Apple Watch Series 8",
-        "product_image": "https://example.com/images/apple_watch_series_8.jpg",
+        "product_image": "https://th.bing.com/th/id/OIP.AooaGLPCSlOuyv9acjA6RwHaHa?rs=1&pid=ImgDetMain",
         "category_name": "Wearables",
         "price": 399.99,
         "description": "The latest smartwatch with advanced health tracking features.",
@@ -82,7 +82,7 @@
       {
         "product_id": "GAD006",
         "product_title": "Fitbit Charge 5",
-        "product_image": "https://example.com/images/fitbit_charge_5.jpg",
+        "product_image": "https://th.bing.com/th/id/OIP.dpHPFwNmgv-qAanGmY5FOAHaIz?rs=1&pid=ImgDetMain",
         "category_name": "Wearables",
         "price": 149.99,
         "description": "Advanced fitness tracker with health metrics and GPS.",
@@ -98,7 +98,7 @@
       {
         "product_id": "GAD007",
         "product_title": "Apple iPad Air (5th Gen)",
-        "product_image": "https://example.com/images/ipad_air_5th_gen.jpg",
+        "product_image": "https://th.bing.com/th/id/OIP.hDw09O_U8XkZbKvZTxEy-gHaHa?rs=1&pid=ImgDetMain",
         "category_name": "Tablets",
         "price": 599.99,
         "description": "The powerful iPad Air with a sleek design and great performance.",
@@ -114,7 +114,7 @@
       {
         "product_id": "GAD008",
         "product_title": "Samsung Galaxy Tab S8",
-        "product_image": "https://example.com/images/galaxy_tab_s8.jpg",
+        "product_image": "https://th.bing.com/th/id/R.e3c002e90141f294b77eb0c05fbb871e?rik=%2bo0sPDLtTjDVIg&pid=ImgRaw&r=0",
         "category_name": "Tablets",
         "price": 699.99,
         "description": "A premium tablet with stunning visuals and powerful performance.",
@@ -130,7 +130,7 @@
       {
         "product_id": "GAD009",
         "product_title": "LG OLED C2 Series 55-Inch 4K TV",
-        "product_image": "https://example.com/images/lg_oled_c2.jpg",
+        "product_image": "https://assets-prd.ignimgs.com/2022/04/11/lg-c2-1649686133775.png?width=1920",
         "category_name": "Entertainment",
         "price": 1399.99,
         "description": "Stunning 4K OLED display with vibrant colors and deep blacks.",
@@ -146,7 +146,7 @@
       {
         "product_id": "GAD010",
         "product_title": "Sony HT-A7000 7.1.2 Channel Soundbar",
-        "product_image": "https://example.com/images/sony_ht_a7000.jpg",
+        "product_image": "https://content.abt.com/image.php/Sony-HTA7000-Dolby-Atmos-Soundbar-HTA7000-Lifestyle-3.jpg?image=/images/products/BDP_Images/Sony-HTA7000-Dolby-Atmos-Soundbar-HTA7000-Lifestyle-3.jpg&canvas=1&width=750&height=550",
         "category_name": "Entertainment",
         "price": 1299.99,
         "description": "Premium soundbar for an immersive audio experience.",
@@ -162,7 +162,7 @@
       {
         "product_id": "GAD011",
         "product_title": "Razer Blade 15 Gaming Laptop",
-        "product_image": "https://example.com/images/razer_blade_15.jpg",
+        "product_image": "https://i5.walmartimages.com/asr/364eadff-7136-423a-ae40-25f2dd0f6507.4cc2b61f9d247658c1ecf97999831b2b.jpeg",
         "category_name": "Computers",
         "price": 1999.99,
         "description": "High-performance gaming laptop with a sleek design.",
@@ -178,7 +178,7 @@
       {
         "product_id": "GAD012",
         "product_title": "Dell XPS 27 All-in-One",
-        "product_image": "https://example.com/images/dell_xps_27.jpg",
+        "product_image": "https://th.bing.com/th/id/R.a4cb04a4da4c55cb5d92b0d83c0506d9?rik=NEvEGVDyTml9rg&pid=ImgRaw&r=0",
         "category_name": "Computers",
         "price": 1799.99,
         "description": "A powerful all-in-one desktop with stunning 4K display.",

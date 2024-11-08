@@ -1,6 +1,9 @@
 import { Outlet, useLoaderData } from "react-router-dom";
 import banner from "../../assets/banner.jpg";
 import Categories from "./Categories";
+import { Rating } from '@smastrom/react-rating'
+
+import '@smastrom/react-rating/style.css'
 
 const Home = () => {
 

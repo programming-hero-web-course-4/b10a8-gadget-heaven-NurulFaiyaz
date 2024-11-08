@@ -11,7 +11,7 @@ const Categories = ({ category }) => {
                     {
                         category.map(category => <NavLink
                             to={`/gadget/${category.category_name}`}
-                            className={({ isActive }) => `border rounded-3xl pl-6 pr-8 py-2 bg-white ${isActive ? 'bg-purple-700 text-white' : ''}`}
+                            className={({ isActive }) => `border rounded-3xl pl-6 pr-8 py-2 bg-white ${isActive ? 'bg-purple-700 ' : ''}`}
                             key={category.id}>
                             <li>{category.category_name}</li>
                         </NavLink>)
